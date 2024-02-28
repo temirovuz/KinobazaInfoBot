@@ -5,5 +5,6 @@
 <p><b>Bot haqida qisqacha malumot</b><br>
 -Botdan siz istal kinoni topishingiz mumkin<br>
 -Kino kodi yoki Kino nomi orqali <br>
+-🤖Bot manzili👇🏻👇🏻<br>
 </p>
 <a href="https://t.me/KinoBazaInfoBot">KINOBAZAINFOBOT</a>
