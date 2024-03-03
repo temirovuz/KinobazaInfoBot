@@ -1,6 +1,6 @@
 # KinobazaInfoBot Telegram Bot
 
-# O'zimni shaxsiy loyiham
+## O'zimni shaxsiy loyiham
 
 ## Bot haqida qisqacha malumot
 + Botdan siz istagan kinoni topishingiz mumkin
