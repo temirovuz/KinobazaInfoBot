@@ -1,10 +1,10 @@
 # KinobazaInfoBot Telegram Bot
 
 # O'zimni shaxsiy loyiham
-<br>
-< <p><b>Bot haqida qisqacha malumot</b><br>
-+ Botdan siz istagan kinoni topishingiz mumkin<br>
-+ Kino kodi yoki Kino nomi orqali <br>
-+ 🤖Bot manzili👇🏻👇🏻<br>
-</p>
+
+## Bot haqida qisqacha malumot
++ Botdan siz istagan kinoni topishingiz mumkin
++ Kino kodi yoki Kino nomi orqali 
++ 🤖Bot manzili👇🏻👇🏻
+
 <a href="https://t.me/KinoBazaInfoBot">KINOBAZAINFOBOT</a>
