@@ -8,4 +8,4 @@
 + 🤖Bot manzili👇🏻👇🏻
 
 <a href="https://t.me/KinoBazaInfoBot">KINOBAZAINFOBOT</a>
-![Minion](https://temirovuz.github.com/images/minion.png)
+![Minion](https://temirovuz.github.com/images/1.png)
