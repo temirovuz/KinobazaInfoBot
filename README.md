@@ -9,4 +9,5 @@
 
 <a href="https://t.me/KinoBazaInfoBot">KINOBAZAINFOBOT</a>
 <br>
-![Minion](https://temirovuz.github.com/KinobazaInfoBot/images/1.png)
+![1](https://github.com/temirovuz/KinobazaInfoBot/assets/100820263/c58fc3a4-b6b6-471e-bc9b-896047b80a95)
+
