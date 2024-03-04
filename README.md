@@ -9,4 +9,4 @@
 
 <a href="https://t.me/KinoBazaInfoBot">KINOBAZAINFOBOT</a>
 <br>
-![Minion](https://octodex.github.com/images/1.png)
+![Minion](https://temirovuz.github.com/KinobazaInfoBot/images/1.png)
