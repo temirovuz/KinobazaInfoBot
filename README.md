@@ -17,7 +17,7 @@
 ![3](https://github.com/temirovuz/KinobazaInfoBot/assets/100820263/28362e6a-6b82-485e-8144-bd3c7850461b)
 ---
 ## Barchasi oddiy Bot manzili 👇🏻
-### [🎞KinobazaInfoBot](https://t.me/KinoBazaInfoZakaz)
+### [🎞KinobazaInfoBot](https://t.me/KinoBazaInfoBot)
 
 
 
